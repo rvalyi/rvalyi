@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Raphaël Valyi, the founder of Akretion
+
+![hacking](https://raw.githubusercontent.com/rvalyi/rvalyi/refs/heads/main/9421d846-7893-4fbc-8126-746511e7f95e_545x295.gif)
 
 <!--
 **rvalyi/rvalyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
